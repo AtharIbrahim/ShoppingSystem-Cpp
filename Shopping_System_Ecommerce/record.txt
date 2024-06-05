@@ -1,0 +1,9 @@
+						Refrigerators
+ Customer Name : Athar
+ Phone number  : +92317-1526168
+ Unit Price    : 90000
+ Quantity      : 1
+ Total Price   : 90000
+ Payment       : 100000
+ Return        : 10000
+
