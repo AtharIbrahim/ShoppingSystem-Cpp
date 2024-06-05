@@ -23,6 +23,14 @@ The C++ code provided implements a simple online purchasing management system, p
 - Reporting and analytics dashboard for monitoring sales and inventory trends
 - Multi-language support for global accessibility
 
+## Menu 1:
+
 <img src="https://github.com/AtharIbrahim/ShoppingSystem-Cpp/blob/main/Shopping_System_Ecommerce/Screenshot/Menu1.png" alt="CryptoMatrix Logo" style="max-width: 100%; height: auto; margin-bottom: 20px;">
+
+## Menu 2:
+
 <img src="https://github.com/AtharIbrahim/ShoppingSystem-Cpp/blob/main/Shopping_System_Ecommerce/Screenshot/Menu2.png" alt="CryptoMatrix Logo" style="max-width: 100%; height: auto; margin-bottom: 20px;">
+
+## Menu 3:
+
 <img src="https://github.com/AtharIbrahim/ShoppingSystem-Cpp/blob/main/Shopping_System_Ecommerce/Screenshot/Menu3.png" alt="CryptoMatrix Logo" style="max-width: 100%; height: auto; margin-bottom: 20px;">
